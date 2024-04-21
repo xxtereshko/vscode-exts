@@ -1,0 +1,37 @@
+{
+  "name": "xxtereshko-bundle",
+  "displayName": "@xxtereshko/bundle",
+  "description": "xxtereshko extension bundle",
+  "publisher": "xxtereshko",
+  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxtereshko/xxtereshko-bundle"
+  },
+  "icon": "images/cover.jpeg",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "xxtereshko.xxtereshko-keymaps",
+    "xxtereshko.xxtereshko-light",
+    "xxtereshko.xxtereshko-snippets",
+    "akamud.vscode-theme-onedark",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "github.copilot",
+    "kisstkondoros.vscode-codemetrics",
+    "mariusalchimavicius.json-to-ts",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "mrmlnc.vscode-scss",
+    "naumovs.color-highlight",
+    "pkief.material-icon-theme",
+    "styled-components.vscode-styled-components",
+    "visualstudioexptteam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits"
+  ]
+}
